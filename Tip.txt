@@ -1,8 +1,5 @@
 ============================== Tips==============================
 1. vscode 기준 SQLite3 Editor 다운 받으면 장고에서 sqlite3 파일에서 쿼리 직접 작성 가능
 2. 관리자 계정 생성 하는 쿼리 - python manage.py createsuperuser 유저이름
+3. 장고 프로젝트 만들기 명령어 : python -m startproject 프로젝트이름 . 
 ===============================================================
-
-test commit from my phone1
-
-Django is good
