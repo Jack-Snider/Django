@@ -4,4 +4,5 @@
 3. 장고 프로젝트 만들기 명령어 : python -m startproject 프로젝트이름 . 
 4. 장고 서버 실행하기 : python manage.py runserver
 5. 장고 마이그레이트 : python manage.py migrate
+6. 장고 마이그레이션  : python manage.py makemigrations
 ===============================================================
