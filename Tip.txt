@@ -7,4 +7,5 @@
 6. 장고 마이그레이션 : python manage.py makemigrations
 7. DB 변경사항 목록과 상태 출력 : python manage.py showmigrations
 8. DB 테이블은 그대로 두고 테이블의 내용만 전부 삭제 : python manage.py flush
+9. DB에 직접 접근할 수 있는 쉘을 실행 : python manage.py dbshell
 ===============================================================
